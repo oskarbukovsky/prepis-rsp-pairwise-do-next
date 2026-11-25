@@ -1,5 +1,5 @@
-import { RspPairwise } from '@/components/rsp-pairwise'
+import { RspPairwiseApi } from '@/components/rsp-pairwise-api'
 
 export default function Page() {
-  return <RspPairwise />
+  return <RspPairwiseApi />
 }
