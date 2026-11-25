@@ -2,10 +2,10 @@ import type { Metadata, Viewport } from 'next'
 import './globals.css'
 
 export const metadata: Metadata = {
-  title: 'RSP Pairwise | Webová alternativa ACTS',
-  description: 'Statický prototyp nástroje pro generování pairwise testovacích scénářů.',
-  generator: 'Next.js',
+  title: 'RSP Pairwise',
+  description: 'Statický klient pro tvorbu pairwise testovacích scénářů s připojením k externímu API.',
 }
+
 
 export const viewport: Viewport = {
   colorScheme: 'dark light',
